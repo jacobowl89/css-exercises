@@ -1,0 +1,22 @@
+
+p {
+    background-color: rgba(218, 62, 0, 0.562);
+    font: Verdana; 
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.r {
+    font-size: 24px;
+}
+
+#second {
+    color: rgb(25, 25, 151);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#fourth {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
